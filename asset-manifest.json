@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Norb-sPortfolio/static/css/main.106e85c3.css",
+    "main.js": "/Norb-sPortfolio/static/js/main.c2aca44f.js",
+    "static/media/home.jpg": "/Norb-sPortfolio/static/media/home.98102ae1773f3e981d08.jpg",
+    "static/media/project-2.jpg": "/Norb-sPortfolio/static/media/project-2.0dfdb478a2db20f08cf8.jpg",
+    "static/media/project-1.jpg": "/Norb-sPortfolio/static/media/project-1.be79344d5e2ef695cee6.jpg",
+    "static/media/Norbert Ochieng Omondi CV .pdf": "/Norb-sPortfolio/static/media/Norbert Ochieng Omondi CV .8fa9d0044bcf1e601371.pdf",
+    "static/media/close.svg": "/Norb-sPortfolio/static/media/close.5bec4f69e1bbfff50fdfacd4eaff052a.svg",
+    "index.html": "/Norb-sPortfolio/index.html",
+    "main.106e85c3.css.map": "/Norb-sPortfolio/static/css/main.106e85c3.css.map",
+    "main.c2aca44f.js.map": "/Norb-sPortfolio/static/js/main.c2aca44f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.106e85c3.css",
+    "static/js/main.c2aca44f.js"
+  ]
+}
