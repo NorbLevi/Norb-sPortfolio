@@ -245,18 +245,27 @@
     display: none;
   }
 
+  .home_data{
+    display: flex !important;
+    align-items: flex-end;
+    flex-direction: column;
+  }
+
   .home_content{
     margin-block: auto;
     text-align: left;
+    width: 100%;
   }
 
   .home_title{
     font-size: var(--h1-font-size);
+    text-align: left;
+    width: 100%;
   }
 
 
   .home_description{
-    text-align: justify;
+    text-align: left;
   }
 
   .info_title{

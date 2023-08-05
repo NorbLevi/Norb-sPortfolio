@@ -63,7 +63,7 @@ const Theme = () => {
             </div>
 
             <div className="theme_toogler" onClick={toggleTheme}>
-                {theme === 'light-theme' ? <BsMoon /> : <BsSun  className='theme_mode'/>}
+                {theme === 'light-theme' ? <BsMoon className='bs_moon'/> : <BsSun  className='theme_mode'/>}
             </div>
 
             <h3 className="style_switcher-title">Switch Style</h3>
